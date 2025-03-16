@@ -44,6 +44,7 @@
 #define LCTL_A LCTL_T(KC_A)
 #define LALT_R LALT_T(KC_R)
 #define LALT_E LALT_T(KC_E)
+#define LWIN_A LGUI_T(KC_A)
 
 #define S_TAB LSFT_T(KC_TAB)
 #define C_ENT LCTL_T(KC_ENT)
